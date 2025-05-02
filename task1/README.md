@@ -1,0 +1,1 @@
+Para criar uma página nova, sempre criar uma pasta para a página e depois um page.tsx dentro. Se não for com esse nome "page" a rota não vai ser encontrada.
